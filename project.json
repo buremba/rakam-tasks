@@ -1,0 +1,8 @@
+{
+  "name": "rakam-tasks",
+  "description": "Data collector for Rakam API",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::808901590446:role/hurriyet_lambda_function",
+  "environment": {}
+}
